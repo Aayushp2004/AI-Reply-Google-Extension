@@ -30,5 +30,3 @@ This project is designed to **streamline email communication** by:
 **Backend:** Spring Boot (Java)  
 **AI API:** Google Gemini API  
 **Tools:** Postman, Visual Studio Code, IntelliJ IDEA  
-
-   git clone https://github.com/your-username/email-reply-assistant.git
